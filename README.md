@@ -3,14 +3,14 @@ Java + swing version. Program used to manipulate rtg photos, implemented algorit
 Still missing some functions which were implemented in c# earlier.  
 
 # Available: 
-*opening and saving images,
-*turn monochromatic,
-*ivert colors,
-*emboss effect,
-*sharpen,
-*noise removal,
-*brightness manipulation,
-*contrast manipulation,
-*gamma manipulation,
-*auto adjustment of brightness and sharpness basing on modified unsharp masking alghoritm and method proposed in article 
+* opening and saving images,
+* turn monochromatic,
+* invert colors,
+* emboss effect,
+* sharpen,
+* noise removal,
+* brightness manipulation,
+* contrast manipulation,
+* gamma manipulation,
+* auto adjustment of brightness and sharpness basing on modified unsharp masking alghoritm and method proposed in article 
 "Automatic gamma correction based on average of brightness".
