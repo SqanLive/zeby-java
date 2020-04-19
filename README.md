@@ -13,4 +13,4 @@ Still missing some functions which were implemented in c# earlier.
 * contrast manipulation,
 * gamma manipulation,
 * auto adjustment of brightness and sharpness basing on modified unsharp masking alghoritm and method proposed in article 
-"Automatic gamma correction based on average of brightness".
+["Automatic gamma correction based on average of brightness".](https://www.academia.edu/19515159/Automatic_gamma_correction_based_on_average_of_brightness)
