@@ -2,7 +2,7 @@
 Java + swing version. Program used to manipulate rtg photos, implemented algorithm for automatic quality estimation and correction of dental X-ray images.   
 Still missing some functions which were implemented in c# earlier.  
 
-#Available: 
+# Available: 
 *opening and saving images,
 *turn monochromatic,
 *ivert colors,
